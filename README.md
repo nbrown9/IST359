@@ -1,1 +1,2 @@
-TSQL - Syracuse University
+# IST359
+TSQL Database - Syracuse University
